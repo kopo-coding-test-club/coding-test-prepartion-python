@@ -19,7 +19,7 @@
 ## 📁 폴더 구조 가이드
 
 ```text
-CODING-TEST-CLUB/
+CODING-TEST-CLUB-PREPARTION-PYTHON/
 └── April/                      # [Month] 월별 폴더
     └── First_Week/             # [Week] 주차별 폴더
         ├── KimBuYeon/          # [Name] 본인 이름 폴더
@@ -52,7 +52,7 @@ CODING-TEST-CLUB/
 | 태그 | 의미 | 예시 |
 | :--- | :--- | :--- |
 | ✨ **DONE** | 문제를 완전히 풀었을 때 | `DONE: 12947_HarshadNumber` |
-| 🏗️ **UNDONE** | 문제를 완전히 풀었을 때 | `UNDONE: 12947_HarshadNumber` |
+| 🏗️ **UNDONE** | 문제를 완전히 못 풀었을 때 | `UNDONE: 12947_HarshadNumber` |
 | ⚙️ **Fix** | 코드 수정 및 리팩토링 | `Fix: 12947_HarshadNumber 효율성 개선` |
 | 📝 **Docs** | README 등 문서 수정 | `Docs: README 파일 업로드` |
 | 🚚 **Chore** | 폴더 구조 변경 등 기타 작업 | `Chore: 폴더 구조 변경` |
