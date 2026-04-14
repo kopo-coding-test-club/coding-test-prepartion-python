@@ -1,3 +1,4 @@
+# 하샤드 수
 def solution(x):
     result = 0
     a = x
