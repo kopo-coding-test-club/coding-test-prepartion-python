@@ -18,6 +18,6 @@ def solution(answers):
     for i in range(len(score)):
         if(score[i] == max_score):
             answer.append(i + 1);
-        
+    
     
     return answer
