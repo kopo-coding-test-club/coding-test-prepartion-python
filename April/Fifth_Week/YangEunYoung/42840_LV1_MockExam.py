@@ -12,7 +12,7 @@ def solution(answers):
             score[1] = score[1] + 1
         if(three[i % len(three)] == answers[i]):
             score[2] = score[2] + 1;
-        
+    
     max_score = max(score)
     
     for i in range(len(score)):
