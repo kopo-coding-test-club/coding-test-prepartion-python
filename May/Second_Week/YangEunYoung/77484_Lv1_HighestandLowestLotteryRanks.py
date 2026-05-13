@@ -3,7 +3,7 @@ def solution(lottos, win_nums):
     grade = [6, 5, 4, 3, 2]
     first = 0;
     last = 0;
-    
+
     for win in win_nums:
         for lotto in lottos:
             if(win == lotto):
