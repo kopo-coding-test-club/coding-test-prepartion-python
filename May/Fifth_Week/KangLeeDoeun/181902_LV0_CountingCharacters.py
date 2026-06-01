@@ -5,4 +5,4 @@ def solution(my_string):
             answer[ord(s)-65] += 1
         elif s.islower():
             answer[ord(s)-71] += 1
-    return answer
+    return answer 
